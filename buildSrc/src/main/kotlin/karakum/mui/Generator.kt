@@ -248,7 +248,7 @@ fun generateKotlinDeclarations(
     generateLabDeclarations(typesDir.resolve("lab"), sourceDir)
     generateTreeViewDeclarations(typesDir.resolve("x-tree-view"), sourceDir)
     generatePickersDeclarations(typesDir.resolve("x-date-pickers"), sourceDir)
-    generateDeteioDeclarations(typesDir.resolve("../@date-io/core"), sourceDir)
+    generateDateioDeclarations(typesDir.resolve("../@date-io/core"), sourceDir)
 }
 
 private fun generateTypesDeclarations(
@@ -579,7 +579,7 @@ private fun generatePickersDeclarations(
     }
 }
 
-private fun generateDeteioDeclarations(
+private fun generateDateioDeclarations(
     typesDir: File,
     sourceDir: File,
 ) {
