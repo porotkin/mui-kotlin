@@ -615,7 +615,7 @@ private fun moduleDeclaration(
         "@mui",
         pkg.id,
         subpackage,
-        componentName,
+        componentName.takeIf { pkg != Package.base },
     ).filterNotNull()
         .joinToString("/")
 
