@@ -852,7 +852,7 @@ private fun findComponent(
             "external val $name: react.$type<$typeParameter>"
 }
 
-private fun optionalJsNameDefaultAnnotation(
+internal fun optionalJsNameDefaultAnnotation(
     content: String,
 ): String =
     if ("export default" in content || "export { default " in content) {

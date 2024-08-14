@@ -93,7 +93,9 @@ internal fun findDefaultFunction(
         declaration = declaration.replaceFirst("(", "(\n")
             .replace(", ", ",\n")
 
+    val defaultAnnotation = optionalJsNameDefaultAnnotation(initialContent)
+
     return comment +
-            "@JsName(\"default\")\n" +
+            defaultAnnotation +
             "external fun $declaration"
 }
