@@ -1,6 +1,6 @@
 // Automatically generated - do not modify!
 
-@file:JsModule("@mui/base/Button")
+@file:JsModule("@mui/base")
 
 package mui.base
 

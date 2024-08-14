@@ -1,10 +1,9 @@
 // Automatically generated - do not modify!
 
-@file:JsModule("@mui/base/useMenuItem")
+@file:JsModule("@mui/base")
 
 package mui.base
 
-@JsName("default")
 external fun useMenuItem(
     params: UseMenuItemParameters,
 ): UseMenuItemReturnValue

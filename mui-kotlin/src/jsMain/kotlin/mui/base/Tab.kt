@@ -1,6 +1,6 @@
 // Automatically generated - do not modify!
 
-@file:JsModule("@mui/base/Tab")
+@file:JsModule("@mui/base")
 
 @file:Suppress(
     "VIRTUAL_MEMBER_HIDDEN",

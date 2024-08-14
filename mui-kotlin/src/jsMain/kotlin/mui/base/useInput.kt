@@ -1,10 +1,9 @@
 // Automatically generated - do not modify!
 
-@file:JsModule("@mui/base/useInput")
+@file:JsModule("@mui/base")
 
 package mui.base
 
-@JsName("default")
 external fun useInput(
     parameters: UseInputParameters? = definedExternally,
 ): UseInputReturnValue

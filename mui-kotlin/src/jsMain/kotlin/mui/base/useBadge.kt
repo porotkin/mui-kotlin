@@ -1,10 +1,9 @@
 // Automatically generated - do not modify!
 
-@file:JsModule("@mui/base/useBadge")
+@file:JsModule("@mui/base")
 
 package mui.base
 
-@JsName("default")
 external fun useBadge(
     parameters: UseBadgeParameters,
 ): UseBadgeReturnValue

@@ -1,6 +1,6 @@
 // Automatically generated - do not modify!
 
-@file:JsModule("@mui/base/Dropdown")
+@file:JsModule("@mui/base")
 
 package mui.base
 

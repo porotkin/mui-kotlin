@@ -1,10 +1,9 @@
 // Automatically generated - do not modify!
 
-@file:JsModule("@mui/base/useSnackbar")
+@file:JsModule("@mui/base")
 
 package mui.base
 
-@JsName("default")
 external fun useSnackbar(
     parameters: UseSnackbarParameters? = definedExternally,
 ): UseSnackbarReturnValue

@@ -1,6 +1,6 @@
 // Automatically generated - do not modify!
 
-@file:JsModule("@mui/base/TextareaAutosize")
+@file:JsModule("@mui/base")
 
 package mui.base
 

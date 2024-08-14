@@ -1,10 +1,9 @@
 // Automatically generated - do not modify!
 
-@file:JsModule("@mui/base/useMenuButton")
+@file:JsModule("@mui/base")
 
 package mui.base
 
-@JsName("default")
 external fun useMenuButton(
     parameters: UseMenuButtonParameters? = definedExternally,
 ): UseMenuButtonReturnValue

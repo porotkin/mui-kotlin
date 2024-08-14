@@ -1,10 +1,9 @@
 // Automatically generated - do not modify!
 
-@file:JsModule("@mui/base/useTabsList")
+@file:JsModule("@mui/base")
 
 package mui.base
 
-@JsName("default")
 external fun useTabsList(
     parameters: UseTabsListParameters,
 ): UseTabsListReturnValue
